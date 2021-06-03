@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine easie and profitable points in husbandrie for the improving and making of ground fertile, for the increasing and preserving of tymber, and for the gathering in of corne, in late and wet harvests.</title>
+            <author>Shaw, John, writer on agriculture.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A12084</idno><idno type="EEBO-CITATION">23109186</idno>
+  <idno type="VID">26255</idno>
+  <idno type="EEBO-PROQUEST">2240906255</idno>
+  <idno type="STC">STC 22391.3</idno>
+  <idno type="STC">ESTC S974</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A12084)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 26255)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1781:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine easie and profitable points in husbandrie for the improving and making of ground fertile, for the increasing and preserving of tymber, and for the gathering in of corne, in late and wet harvests.</title>
+                  <author>Shaw, John, writer on agriculture.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop, and are to bee sold at the signe of the thr[ee?] flower deluces, in Fleet-street, over against Saint Brides lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Shaw by STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Imperfect: t.p. has small hole with slight loss of print.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tillage --  Early works to 1800.</term>
+               <term type="topical_term">Harvesting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:26255:1"/>
+            <pb facs="tcp:26255:1"/>
+            <pb facs="tcp:26255:2"/>
+            <pb facs="tcp:26255:2"/>
+            <p>CERTAINE EASIE AND PROFITABLE POINTS in <hi>Husbandrie,</hi> for the Impro<g ref="char:EOLhyphen"/>ving and making of Ground Fertile.</p>
+            <p>
+               <hi>For the Increasing and Preserving of</hi> TYMBER.</p>
+            <p>AND For the gathering in of <hi>Corne,</hi> in Late and Wet Har<g ref="char:EOLhyphen"/>vests.</p>
+            <p>LONDON, Printed by BARNARD ALSOP, and are to bee sold at the signe of the thr<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>Flower deluces,</hi> in <hi>Fleet-street,</hi> over against Saint <hi>Brides</hi> Lane end. 1637.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:26255:3"/>
+            <pb n="1" facs="tcp:26255:3"/>
+            <head>AN EASIE AND PROFI<g ref="char:EOLhyphen"/>TABLE ORDER IN TIL<g ref="char:EOLhyphen"/>ling of Ground to improve it, and make it Fertile.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Ecause all things in this World are subject to casualtie, and <hi>Husbandry</hi> and <hi>Tillage</hi> although it be a principall stay, and supporter both in the Church and Common-wealth, yet doth it not alwayes hit according to the <hi>Husband<g ref="char:EOLhyphen"/>mans</hi> expectation, but oftentimes doth faile, unto his great losse, and the miseries of others: I shall here discover some certaine points in <hi>Husbandrie,</hi> where<g ref="char:EOLhyphen"/>by the <hi>Husbandman</hi> may easily succour his <hi>Corn</hi> after it is sown, and use such meanes and wayes that he may preserve and foster it, if need so require.</p>
+            <p>Now the most certaine way in <hi>Tillage,</hi> not to loose both your seed and labor (as many often have done in dry seasons, and are still like to doe, if they hold on in their accustomed <hi>Tillage</hi>) whē the season is like to be dry, is to <hi>Till</hi> your <hi>Ground</hi> by <hi>Lands,</hi> leaving alwayes a space untilled betweene every <hi>Land,</hi> that so you may have places whereby you may come to moysten, and succour your <hi>Seed</hi> untill it be well come forth and growne, if the season be dry, and you perceive it doth not come forth
+<pb n="2" facs="tcp:26255:4"/> kindely as you would have it, this is a point of <hi>Husbandrie,</hi> that will be extraordinarie usefull where any <hi>Barraine ground</hi> lyeth neare unto any Rivers, where water may plentifully be had, and it will not be unusefull where good ground is, although there be not such plentie of water: but some <hi>Husbandmen</hi> it may be will be apt to thinke, that so much ground that yeare is lost that is left untill'd in a Field that is tilled; but it is easily answe<g ref="char:EOLhyphen"/>red, that better a little ground be lost, then a greater quantitie of ground, and your cost and <hi>Seed</hi> also be lost, as it may be sayd well to be, if it doth not bring forth a crop proportionable un<g ref="char:EOLhyphen"/>to the place and charge bestowed thereon, but to speake the truth, the ground is not lost that is left untilled, bacause of it selfe it will bring forth some benefit: although it be not sowne, and that, that is not sowne the one yeare doth gather heart, and will be improved against the next yeare, for if you diligently succour your seed-plots with water, and some such other means as you shall see needfull, the <hi>Invention</hi> that you may water your tilled ground with, will also at the same time water your un<g ref="char:EOLhyphen"/>tilled spaces, so as that, what with the watering, and with the trampling, your untilled spaces will be well improved there<g ref="char:EOLhyphen"/>by. For watering, and trampling of ground when it is moist, will improve any ground, without any other meanes, neyther may any <hi>Husbandman</hi> sow one jot the lesse, for what quantitie of ground he leaveth unsowne in one Field, he may sow for it the same quantity in another place, and in the same manner, if he thinke well, and in thus ordering, and sowing of his ground he shall finde more certaine profit then any other way.</p>
+            <p>The breadth of the <hi>Lands</hi> that in this manner are to be tilled, may be 6, 7, or 8 foot in breadth, and the space betweene each land that you are to leave untilled, may be a foot end a halfe, or more in breadth if you see cause: thus may you without doing harme to your Corne at any time as you see cause, both nou<g ref="char:EOLhyphen"/>rish and cherish it up, from the first sowing thereof untill it be
+<pb n="3" facs="tcp:26255:4"/> past all danger that may be fall it through drought, for when it is sprung up to some prettie growth, the blades will defend the rootes thereof so from the heat of the Sunne in dry seasons, that it will not take any extraordinarie harme thereby:</p>
+            <p>Also this is to be noted, that those spaces that you leave un<g ref="char:EOLhyphen"/>plowed one yeare, if you sow the same <hi>Field</hi> the next yeare, you are to plow up, &amp; leave now some part of the lands (that the last yere were tilled and sown) for to be the spaces between the Lands that you mean now to till &amp; sow: and so every yeare you may rest some part of your <hi>Field,</hi> although every yeare you sow the greater part, and reape good crops of Corne from the same.</p>
+            <p>Now to give you some taste whether this point of <hi>Husban<g ref="char:EOLhyphen"/>drie</hi> will be advantagious or no, let every <hi>Husbandman</hi> first cast what an Acre of <hi>Corns</hi> is worth standing upon the Ground, and then how many Acres thereof may be watered in a day; unto the first question I can answere, I have knowne an Acre of Wheat to have been worth ten pounds upon the ground, when Corne hath been at an high price, but I will suppose it to bee worth now but 40 shillings, or 3 poūd the Acre: Vnto the second I will answere, where water may easily be had, a couple of men may well and easily water about some 30 Acres a day, when the dayes be long, and if it be watered well but every other day, and the ground be any thing good, or well manured, it will come forward; and by this account, two men may cherish 60 Acres and bring it forward, watering the one halfe well one day, and the other halfe another day; and 60 Acres according unto the lowest rate amounteth unto 120 pound, &amp; at 3 pound the Acre, it will amount unto 180 pound: and how much soe<g ref="char:EOLhyphen"/>ver an Acre of any Corne can be worth, an Acre of Corne well tilled and thus cherished, will come to be worth much more then that which is but slightly tilled, and that never after is hel<g ref="char:EOLhyphen"/>ped or cherished any wayes. Now if a Couple with two or three Monthes labor (for I suppose in two or three Monthes
+<pb n="4" facs="tcp:26255:5"/> the <hi>Corne</hi> will be indifferently able to defend it selfe against the heat of the <hi>Sunne,</hi> and will be come so forward that it will not need any further watering) can thus bring such profit out from the earth, I suppose it will recompence their labour, and be an incouragement unto any to proceed with pleasure and delight in a labour so advantagious for themselves, and so much concer<g ref="char:EOLhyphen"/>ning the publike good, neither will this labour fall upon the <hi>Husbandman</hi> at an unseasonable time. For alwayes after <hi>Seed-time</hi> hath the <hi>Husbandman</hi> most leisure, &amp; after <hi>Seed-time</hi> then is the most seasonable time thus to cherish your <hi>Corn,</hi> &amp; it is not to be doubted, but that oftentimes there will fall some showers al<g ref="char:EOLhyphen"/>so, that will both helpe and ease the labor of the Waterers, in the driest time and season of the yeare: For I for my part am perswaded that in mens honest and good endeavours there is a silent Rethorick to perswade with GOD, and yet I would not have any man to be silent in a time of necessitie; but I leave that for Divines to teach and perswade, and stirre up men unto.</p>
+            <p>Now such <hi>Husbandmen</hi> that have not a manuring <hi>Plow</hi> or <hi>Seed-barrow</hi> ready, may till their Land in this order after the old accustomed manner, if the <hi>Land</hi> be not extraordinarie bar<g ref="char:EOLhyphen"/>ren. For if it be extraordinarie barren, then they must use the <hi>Manuring-Plow,</hi> or <hi>Manuring-Wagen</hi> in <hi>Tilling</hi> and <hi>Sowing</hi> the same, or else perhaps they may loose much of their Crop, or at least never improove it so orderly by sowing the same: Nei<g ref="char:EOLhyphen"/>ther is there a better, nor more easie and speedy way to improve any arable ground, or to make any <hi>barren Land</hi> to become good arable Land then by thus ordering, and sowing of the same, as any one may quickly finde that shall but once make tryall of some little parcell of <hi>barren-ground</hi> in any place.</p>
+            <p>Now if there be any that can helpe the Author unto; any reasonable quantitie of <hi>barren ground,</hi> he will further discover unto them how they shall improve both easily and speedily any <hi>barren ground,</hi> and make it to become good <hi>Medow ground,</hi> and
+<pb n="5" facs="tcp:26255:5"/> to be worth so much yearly, as any <hi>Medow ground</hi> is, or can be in any place neare adjacent thereunto.</p>
+            <div type="part">
+               <head>How to shrewd your Grasse.</head>
+               <p>IT were one excellent point in <hi>Husbandrie</hi> to set and plant, both Oakes and Elmes, all along in a row by the hedges on your Field sides, excepting those sides that joyne upon some common Roads and Highwayes, that require the Winde and Sunne to drie them, and make them passable, for hereby might you shelter the grasse a great part of the long Summer dayes, from the scortching heat of the Sunne, and in the Winter from the nipping blasts of the cold freezing Winde, and also provide fuell for your fire and other uses, and food for your Swine, besides many other commodities that would arise from the same, for every <hi>Spring</hi> your grasse would be much more forwarder than it is, and the leaves of the Trees would also help to fatten your ground; and it were to be wished that there were some <hi>Act</hi> or <hi>Statute</hi> to force this point of <hi>Husbandrie,</hi> that so the Walles of the Kingdome, and the Bridges whereby such troopes of our Fore-fathers were wont to passe over the Seas to chastise their insolent and daring enemies; might be effectu<g ref="char:EOLhyphen"/>ally maintained; and that we might thereby become feared of those enemies, that now thinke themselves out of our danger.</p>
+               <p>Surely the reason why this <hi>Husbandrie</hi> is not used, is because the profit thereof would not presently arise to our selves; but every one ought to know that no man is born only for himself, and that Fathers are to provide for their Children; therefore if we would leave our Countrie to our Children, and have our Childrens Children injoy the same, let us then providently forecast, to provide such materials for our Grand-children, that they may have wherewithall to encounter with their enemies abroad, rather then to suffer them to be forced to combate with them here at home; surely if any enemy of ours, had any kinde
+<pb n="6" facs="tcp:26255:6"/> of Timber so tough and durable as our <hi>English Oake,</hi> they would not neglect so great a benefit: O then unlesse we would have our Enemies to succeed us in our inheritances let us make use of the benefies and priviledges that our good God hath bestowed upon us above other Nations.</p>
+            </div>
+            <div type="part">
+               <head>How to gather Wheate, Rye and Barley in late Harvests, and Wet Seasons.</head>
+               <p>IN <hi>Harvest-time</hi> when the Corne is full ripe and like to shed, and the season so wet that it cannot be housed so drie as it should be, ought this point of <hi>Husbandrie</hi> to be practised, rather than that the <hi>Corne</hi> should be spoyl'd or lost; first therefore in such seasons may the <hi>Husbandman</hi> reape or cut downe his <hi>Corne</hi> according to the Country custome wherein he lives, and then afterward whensoever it holds up; or sooner if there be cause; let his Harvest people (having implements accordingly) apply themselves to the cropping, clipping, or cutting off the Eares of the Corne by handfuls at a time, little Children may gather the Corne into handfuls, and give them to the <hi>Harvest-man,</hi> who at he cuts them off, should put them into Sackes, and then should they be carried home, and spread upon floores in Lofts, and in all other places where they may lye and dry, and being dry then should they be removed &amp; other brought and should be spread in their places, otherwise whensoever the Weather holds a little faire, there may one be assigned to follow every Reaper that may clip off the eares as fast as they shall reape it, into lit<g ref="char:EOLhyphen"/>tle flaskets, and so sacke them up, and carry them home as fast as it is reaped. Thus may men soone gather in their Wheat, their Rye, and their Barley, although there should be much grasse, and weeds among the straw, that doth require much time to wither, and dry before it can be got in. Now when they have got in the eares of their Corne, they may let the straw lye and dry a while without sustaining any great hurt, and after they may ga<g ref="char:EOLhyphen"/>ther it in and stack it up at leisure, when the season is more drie.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
